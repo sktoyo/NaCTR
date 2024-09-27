@@ -1,0 +1,19 @@
+compound	drugbank_id	ADMET - Human Intestinal Absorption_value	ADMET - Human Intestinal Absorption_prob	ADMET - Blood Brain Barrier_value	ADMET - Blood Brain Barrier_prob	ADMET - Caco-2 permeable_value	ADMET - Caco-2 permeable_prob
+menadione	DB00170	True	1.0	True	0.8265	True	0.8641
+flavin adenine dinucleotide	DB03147	False	0.6156	True	0.5	False	0.6995
+bupropion	DB01156	True	1.0	True	0.975	True	0.8866
+calcium ions	DB14577						
+pyridoxal phosphate	DB00114	True	0.5078	True	0.8022	False	0.6476
+histamine	DB05381	True	0.9931	True	0.8784	False	0.5409
+levodopa	DB01235	True	0.8715	False	0.9264	False	0.8957
+reduced glutathione	DB00143	False	0.7892	True	0.6491	False	0.8191
+carboxy	DB01942	True	0.9726	True	0.9652	True	0.6096
+NG-hydroxy-L-arginine	DB03144	True	0.9361	True	0.7575	False	0.6781
+flavin mononucleotide	DB03247	False	0.9125	False	0.7057	False	0.6779
+nicotinamide adenine dinucleotide phosphate	DB03461	False	0.9635	True	0.8652	False	0.7266
+DNCB	DB11831						
+hypericin	DB13014						
+Zn(II	DB01593	True	0.9838	True	0.9733	True	0.7354
+dopamine	DB00988	True	0.9547	False	0.8414	False	0.5479
+serotonine	DB08839						
+p-methoxyamphetamine	DB01472	True	0.9971	True	0.9283	True	0.7646
