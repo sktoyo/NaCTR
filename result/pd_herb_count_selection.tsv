@@ -1,0 +1,229 @@
+herb_name	comp_count	phen_count
+Juglans regia	16	2
+Actinidia chinensis	16	2
+Allium cepa	16	1
+Allium sativum	15	3
+Anacardium occidentale	15	2
+Ananas comosus	16	1
+Anethum graveolens	18	1
+Apium graveolens	15	2
+Arachis hypogaea	15	6
+Arctium lappa	15	1
+Avena sativa	17	2
+Beta vulgaris	15	2
+Borago officinalis	15	2
+Brassica juncea	15	1
+Brassica napus	15	4
+Brassica oleracea	15	2
+Brassica rapa	16	3
+Cajanus cajan	15	1
+Camellia sinensis	16	7
+Capparis spinosa	15	1
+Capsicum annuum	17	2
+Carica papaya	16	4
+Carthamus tinctorius	15	2
+Carum carvi	15	1
+Carya illinoinensis	15	1
+Cicer arietinum	15	1
+Cichorium intybus	15	1
+Cinnamomum aromaticum	16	2
+Cinnamomum verum	15	3
+Citrullus lanatus	15	1
+Citrus limon	15	2
+Citrus reticulata	15	1
+Citrus sinensis	15	3
+Coriandrum sativum	15	1
+Corylus avellana	15	1
+Crocus sativus	15	5
+Cucumis melo	15	3
+Cucumis sativus	15	1
+Cucurbita	15	1
+Cuminum cyminum	15	2
+Curcuma longa	15	3
+Cydonia oblonga	15	1
+Cymbopogon citratus	15	1
+Daucus carota	15	3
+Diospyros kaki	15	2
+Elettaria cardamomum	15	1
+Eriobotrya japonica	15	1
+Fagopyrum esculentum	15	3
+Ficus carica	15	2
+Foeniculum vulgare	15	2
+Fragaria x ananassa	15	3
+Glycine max	15	2
+Helianthus annuus	15	4
+Hippophae rhamnoides	16	1
+Hordeum vulgare	17	3
+Illicium verum	15	1
+Ipomoea aquatica	15	1
+Ipomoea batatas	15	3
+Lactuca sativa	15	1
+Lathyrus sativus	15	1
+Laurus nobilis	15	3
+Lepidium sativum	15	1
+Levisticum officinale	15	1
+Linum usitatissimum	15	2
+Litchi chinensis	15	2
+Mangifera indica	15	3
+Melissa officinalis	15	5
+Mentha	15	1
+Mentha spicata	15	2
+Mentha x piperita	15	5
+Morus	15	3
+Morus nigra	15	1
+Myristica fragrans	15	1
+Ocimum basilicum	15	3
+Olea europaea	15	3
+Oryza sativa	15	6
+Passiflora edulis	15	2
+Persea americana	17	1
+Phaseolus vulgaris	17	1
+Aronia melanocarpa	15	1
+Pimpinella anisum	15	1
+Piper nigrum	15	3
+Pisum sativum	17	3
+Portulaca oleracea	17	3
+Prunus armeniaca	15	1
+Prunus domestica	16	2
+Prunus dulcis	15	2
+Prunus persica	16	5
+Psidium guajava	15	1
+Punica granatum	16	2
+Pyrus communis	15	1
+Raphanus sativus	15	1
+Rheum rhabarbarum	15	2
+Salvia rosmarinus	15	2
+Rubus idaeus	16	1
+Rumex acetosa	15	1
+Salvia officinalis	15	1
+Sambucus nigra	15	1
+Satureja hortensis	15	1
+Secale cereale	17	3
+Sesamum indicum	15	5
+Solanum lycopersicum	17	5
+Solanum melongena	17	1
+Solanum tuberosum	18	4
+Sorbus aucuparia	15	1
+Sorghum bicolor	15	1
+Spinacia oleracea	17	1
+Syzygium aromaticum	15	3
+Tamarindus indica	15	1
+Taraxacum officinale	15	1
+Theobroma cacao	17	5
+Trigonella foenum-graecum	15	2
+Triticum aestivum	15	5
+Vaccinium corymbosum	15	4
+Vaccinium macrocarpon	15	2
+Verbena officinalis	15	2
+Vicia faba	16	3
+Vigna angularis	15	1
+Vigna radiata	15	1
+Vigna unguiculata	15	1
+Vitis vinifera	15	5
+Zea mays	16	5
+Zingiber officinale	15	4
+Allium tuberosum	15	1
+Panax ginseng	15	6
+Dimocarpus longan	15	1
+Vitis labrusca	15	1
+Capsicum chinense	15	1
+Capsicum	15	1
+Allium fistulosum	15	2
+Brassica rapa subsp. chinensis	15	1
+Citrus x paradisi	15	2
+Hea	15	1
+unidentified	15	1
+Medicago sativa	16	2
+Maranta arundinacea	15	1
+Petasites japonicus	15	1
+Ceratonia siliqua	15	1
+Manihot esculenta	15	3
+Glebionis coronaria	15	1
+Cocos nucifera	15	1
+Castanea sativa	15	1
+Ginkgo biloba	15	4
+Moringa oleifera	15	2
+Helianthus tuberosus	15	1
+Citrus	15	4
+Chenopodium album	15	1
+Nelumbo nucifera	15	3
+Garcinia mangostana	15	2
+Sinapis alba	15	1
+Tetragonia tetragonoides	15	1
+Abelmoschus esculentus	15	1
+Musa x paradisiaca	17	1
+Phytolacca americana	15	3
+Papaver somniferum	16	1
+Opuntia	15	1
+Chenopodium quinoa	15	1
+Syzygium jambos	15	1
+Hibiscus sabdariffa	15	2
+Annona muricata	15	2
+Psidium cattleyanum	15	1
+Colocasia esculenta	15	1
+Eragrostis tef	15	1
+Benincasa hispida	15	2
+Macadamia	15	1
+Auricularia auricula-judae	15	1
+Lentinula edodes	15	1
+Flammulina velutipes	15	1
+Dysphania ambrosioides	15	1
+Pleurotus ostreatus	15	1
+Saccharina japonica	15	1
+Juglans	15	4
+Nu	15	1
+Morella rubra	15	1
+Pan	15	1
+Prunus tomentosa	17	1
+Trifolium pratense	1	2
+Hydrangea febrifuga	1	1
+Ephedra sinica	1	1
+Ara	1	1
+Mirabilis jalapa	1	1
+Nes	1	2
+Ami	3	2
+Sus scrofa domesticus	2	2
+Bos taurus	3	4
+Coffea	2	1
+Ala	2	1
+Ula	2	2
+Ora	2	1
+Cyprinus carpio	3	1
+Capra hircus	2	2
+Ia	4	1
+Tor	2	3
+Coffea arabica	2	2
+Gallus gallus	2	1
+Ovis aries	2	4
+Coffea canephora	2	1
+Amauroderma calcitum	1	1
+Coridius	1	1
+Stella	1	1
+Apis cerana	2	2
+Mimosa pudica	1	1
+Murraya paniculata	1	1
+Citrus medica	1	1
+Gossypium herbaceum	1	1
+Chelidonium majus	1	1
+Phytolacca acinosa	1	2
+Trifolium repens	1	1
+Scolopendra subspinipes	1	1
+Anguilla japonica	1	1
+Urtica dioica	1	3
+Claviceps purpurea	1	1
+Apis mellifera	1	1
+Cannabis sativa	1	10
+Isa	1	2
+Radix	1	4
+Cebus	1	1
+Rheum officinale	1	1
+Zizania latifolia	1	1
+Albizia julibrissin	1	1
+Urtica cannabina	1	1
+Phlomoides rotata	1	1
+Bombyx mori	1	1
+Ovis	1	2
+Curcuma aromatica	1	1
+Hypericum perforatum	1	5
+Hypericum sampsonii	1	1
+Hypericum erectum	1	1

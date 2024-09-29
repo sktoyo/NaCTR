@@ -1,0 +1,699 @@
+herb_name	comp_count
+Typha angustifolia	15
+Juglans regia	16
+Angelica keiskei	15
+Brassica oleracea var. sabauda	15
+Actinidia chinensis	16
+Allium	15
+Allium cepa	16
+Allium ampeloprasum	15
+Allium sativum	15
+Allium schoenoprasum	15
+Aloysia triphylla	15
+Anacardium occidentale	15
+Ananas comosus	16
+Anethum graveolens	18
+Annona reticulata	16
+Apium graveolens	15
+Arachis hypogaea	15
+Arctium lappa	15
+Armoracia rusticana	15
+Artemisia dracunculus	15
+Artemisia vulgaris	15
+Asparagus officinalis	15
+Avena sativa	17
+Averrhoa carambola	15
+Bertholletia excelsa	15
+Beta vulgaris	15
+Borago officinalis	15
+Brassica juncea	15
+Brassica napus	15
+Brassica napus var. napus	15
+Brassica oleracea	15
+Brassica oleracea var. botrytis	15
+Brassica oleracea var. gemmifera	15
+Brassica oleracea var. gongylodes	15
+Brassica oleracea var. italica	17
+Brassica rapa	16
+Brassica rapa subsp. rapa	15
+Cajanus cajan	15
+Camellia sinensis	16
+Capparis spinosa	15
+Capsicum annuum	17
+Carica papaya	16
+Carthamus tinctorius	15
+Carum carvi	15
+Carya illinoinensis	15
+Castanea	15
+Chamaemelum nobile	15
+Cicer arietinum	15
+Cichorium endivia	15
+Cichorium intybus	15
+Cinnamomum aromaticum	16
+Cinnamomum verum	15
+Citrullus lanatus	15
+Citrus aurantiifolia	15
+Citrus limon	15
+Citrus maxima	15
+Citrus reticulata	15
+Citrus sinensis	15
+Coriandrum sativum	15
+Corylus avellana	15
+Crocus sativus	15
+Cucumis melo	15
+Cucumis sativus	15
+Cucurbita	15
+Cuminum cyminum	15
+Curcuma longa	15
+Cydonia oblonga	15
+Cymbopogon citratus	15
+Cynara cardunculus var. scolymus	15
+Daucus carota	15
+Diospyros kaki	15
+Elettaria cardamomum	15
+Empetrum nigrum	15
+Eriobotrya japonica	15
+Eruca vesicaria subsp. sativa	15
+Eugenia	15
+Fagopyrum esculentum	15
+Fagopyrum tataricum	15
+Ficus carica	15
+Foeniculum vulgare	15
+Fragaria x ananassa	15
+Gaylussacia baccata	15
+Glycine max	15
+Helianthus annuus	15
+Hippophae rhamnoides	16
+Hordeum vulgare	17
+Hyssopus officinalis	15
+Illicium verum	15
+Ipomoea aquatica	15
+Ipomoea batatas	15
+Juglans nigra	16
+Lactuca sativa	15
+Lathyrus sativus	15
+Laurus nobilis	15
+Lens culinaris	15
+Lepidium sativum	15
+Levisticum officinale	15
+Linum usitatissimum	15
+Lippia graveolens	15
+Litchi chinensis	15
+Lupinus	15
+Malus pumila	15
+Mangifera indica	15
+Matricaria chamomilla var. recutita	15
+Melissa officinalis	15
+Mentha	15
+Mentha aquatica	15
+Mentha arvensis	15
+Mentha spicata	15
+Mentha x piperita	15
+Mespilus germanica	15
+Momordica charantia	16
+Morus	15
+Morus nigra	15
+Myristica fragrans	15
+Ocimum basilicum	15
+Oenothera biennis	15
+Olea europaea	15
+Origanum majorana	15
+Origanum onites	15
+Origanum vulgare	15
+Oryza sativa	15
+Panicum miliaceum	15
+Papaver	15
+Passiflora edulis	15
+Pastinaca sativa	15
+Persea americana	17
+Petroselinum crispum	15
+Phaseolus coccineus	17
+Phaseolus lunatus	15
+Phaseolus vulgaris	17
+Phoenix dactylifera	16
+Aronia melanocarpa	15
+Pimpinella anisum	15
+Pinus	15
+Piper nigrum	15
+Pistacia vera	15
+Pisum sativum	17
+Portulaca oleracea	17
+Prunus	15
+Prunus armeniaca	15
+Prunus avium	15
+Prunus cerasus	15
+Prunus domestica	16
+Prunus dulcis	15
+Prunus persica	16
+Psidium guajava	15
+Punica granatum	16
+Pyrus communis	15
+Raphanus sativus	15
+Rheum rhabarbarum	15
+Ribes nigrum	15
+Ribes rubrum	15
+Ribes uva-crispa	15
+Salvia rosmarinus	15
+Rubus	15
+Rubus chamaemorus	15
+Rubus idaeus	16
+Rubus occidentalis	15
+Rumex acetosa	15
+Salvia officinalis	15
+Sambucus nigra	15
+Satureja hortensis	15
+Satureja montana	15
+Secale cereale	17
+Sesamum indicum	15
+Solanum lycopersicum	17
+Solanum lycopersicum var. cerasiforme	16
+Septoria lycopersici var. lycopersici	16
+Solanum melongena	17
+Solanum tuberosum	18
+Sorbus aucuparia	15
+Sorghum bicolor	15
+Spinacia oleracea	17
+Syzygium aromaticum	15
+Tamarindus indica	15
+Taraxacum officinale	15
+Theobroma cacao	17
+Thymus vulgaris	15
+Tilia	15
+Tilia cordata	15
+Trigonella foenum-graecum	15
+Triticum aestivum	15
+Vaccinium	15
+Vaccinium angustifolium	15
+Vaccinium arboreum	15
+Vaccinium corymbosum	15
+Vaccinium macrocarpon	15
+Vaccinium myrtillus	15
+Vaccinium vitis-idaea	15
+Vanilla	15
+Verbena officinalis	15
+Vicia faba	16
+Vigna angularis	15
+Vigna mungo	15
+Vigna radiata	15
+Vigna umbellata	15
+Vigna unguiculata	15
+Vitis rotundifolia	15
+Vitis vinifera	15
+Zea mays	16
+Zingiber officinale	15
+Rubus arcticus	15
+Musa acuminata	17
+Myrica	15
+Vaccinium elliottii	15
+Vaccinium myrtilloides	15
+Vaccinium uliginosum	15
+Ribes aureum	15
+Apium graveolens Rapaceum Group	15
+Apium graveolens Dulce Group	15
+Allium tuberosum	15
+Vaccinium oxycoccos	15
+Vaccinium stamineum	15
+Panax ginseng	15
+Vaccinium deliciosum	15
+Vaccinium ovalifolium	15
+Vaccinium ovatum	15
+Vaccinium parvifolium	15
+Dimocarpus longan	15
+Macadamia tetraphylla	15
+Vitis aestivalis	15
+Vitis labrusca	15
+Prunus persica var. nucipersica	15
+Prunus persica var. persica	15
+Capsicum baccatum var. baccatum	15
+Capsicum chinense	15
+Capsicum	15
+Nephelium lappaceum	15
+Oryza rufipogon	15
+Zizania aquatica	15
+Beta vulgaris subsp. cicla	17
+Thymus pulegioides	15
+Brassica oleracea var. costata	15
+Juglans ailanthifolia	15
+Allium fistulosum	15
+Triticum turgidum subsp. durum	15
+Allium ascalonicum	15
+Eruca vesicaria	15
+Daucus carota subsp. sativus	17
+Blumeria graminis f. sp. triticale	15
+Brassica oleracea var. viridis	15
+Vaccinium angustifolium x Vaccinium corymbosum	15
+Apium graveolens Secalinum Group	15
+Brassica rapa var. perviridis	15
+Brassica rapa subsp. chinensis	15
+Brassica rapa subsp. pekinensis	15
+Citrus x paradisi	15
+Brassica oleracea var. alboglabra	15
+Origanum x majoricum	15
+Hea	15
+Raphanus sativus var. niger	15
+Raphanus sativus var. sativus	15
+Apoidea	17
+Salvia elegans	15
+Ribes glandulosum	15
+unidentified	15
+Mycobacterium phage Seabiscuit	15
+Haliotis	15
+Crateva religiosa	15
+Malpighia emarginata	15
+Quercus	15
+Cucurbita maxima	15
+Eucheuma	15
+Medicago sativa	16
+Pimenta dioica	15
+Amaranthus	15
+Sagittaria latifolia	15
+Maranta arundinacea	15
+Pyrus pyrifolia	15
+Clupea harengus	15
+Phyllostachys edulis	15
+Fagus	15
+Artocarpus altilis	15
+Brosimum alicastrum	15
+Brassica rapa Broccoletto Group	15
+Lota lota	15
+Petasites japonicus	15
+Peprilus triacanthus	15
+Juglans cinerea	15
+Cucurbita moschata	15
+Lagenaria siceraria	15
+Cynara cardunculus	15
+Carissa macrocarpa	15
+Ceratonia siliqua	15
+Manihot esculenta	15
+Sechium edule	15
+Annona cherimola	15
+Anthriscus cerefolium	15
+Salvia hispanica	15
+Castanea mollissima	15
+Eleocharis dulcis	15
+Glebionis coronaria	15
+Cocos nucifera	15
+Valerianella locusta	15
+Gossypium	16
+Vigna unguiculata subsp. cylindrica	15
+Malus	15
+Viburnum edule	15
+Myoxocephalus	15
+Rumex	15
+Durio zibethinus	15
+Sambucus	15
+Perideridia oregana	15
+Castanea sativa	15
+Chamaenerion angustifolium	15
+Ginkgo biloba	15
+Vitis	16
+Physalis	15
+Corylus	15
+Carya	15
+Moringa oleifera	15
+Lablab purpureus	15
+Chondrus crispus	15
+Artocarpus heterophyllus	15
+Castanea crenata	15
+Syzygium cumini	15
+Helianthus tuberosus	15
+Ziziphus sp.	15
+Corchorus olitorius	15
+Brassica napus var. pabularia	15
+Laminaria	15
+Citrus	15
+Chenopodium album	15
+Rubus loganobaccus	15
+Nelumbo	15
+Nelumbo nucifera	15
+Lupinus albus	15
+Basella alba	15
+Mammea americana	15
+Garcinia mangostana	15
+Hedysarum alpinum	15
+Vigna aconitifolia	15
+Dioscorea pentaphylla	15
+Sinapis alba	15
+Tetragonia tetragonoides	15
+Nopalea cochenillifera	15
+Vaccinium reticulatum	15
+Abelmoschus esculentus	15
+Capsicum annuum var. annuum	16
+Diospyros virginiana	15
+Canarium ovatum	15
+Pinus edulis	15
+Eugenia uniflora	15
+Opuntia macrorhiza	15
+Musa x paradisiaca	17
+Phytolacca americana	15
+Papaver somniferum	16
+Pediomelum esculentum	15
+Opuntia	15
+Chenopodium quinoa	15
+Syzygium jambos	15
+Rosa	15
+Hibiscus sabdariffa	15
+Rubus spectabilis	15
+Tragopogon porrifolius	15
+Manilkara zapota	15
+Pouteria sapota	15
+Sesbania bispinosa	15
+Sisymbrium	15
+Annona muricata	15
+Triticum spelta	15
+Spirulina	15
+Psidium cattleyanum	15
+Annona squamosa	15
+Colocasia esculenta	15
+Eragrostis tef	15
+Physalis philadelphica var. immaculata	15
+Luffa aegyptiaca	15
+Eutrema japonicum	15
+Benincasa hispida	15
+Zizania	15
+Salix pulchra	15
+Psophocarpus tetragonolobus	15
+Dioscorea	15
+Pachyrhizus erosus	15
+Xanthosoma sagittifolium	15
+Vigna unguiculata subsp. unguiculata	15
+Macadamia	15
+Koenigia alpina	15
+Triticum turgidum subsp. turanicum	15
+Vigna unguiculata subsp. sesquipedalis	15
+Citrus latifolia	15
+Acca sellowiana	15
+Pangium edule	15
+Auricularia auricula-judae	15
+Agaricus bisporus	15
+Lentinula edodes	15
+Undaria pinnatifida	15
+Flammulina velutipes	15
+Dysphania ambrosioides	15
+Pleurotus ostreatus	15
+Auricularia polytricha	15
+Grifola frondosa	15
+Matteuccia struthiopteris	15
+Rumex arcticus	15
+Tinda	15
+Triticum	16
+Prunus virginiana	15
+Agave	15
+Cantharellus cibarius	15
+Cinnamomum	15
+Elaeis	15
+Metroxylon sagu	15
+Diospyros	15
+Scorzonera hispanica	15
+Rhodophyta	15
+Saccharina japonica	15
+Cirsium	15
+Juglans	15
+Strombidae	15
+Cucumis metulifer	15
+Nu	15
+Attalea speciosa	15
+Theobroma grandiflorum	15
+Vitellaria paradoxa	15
+Camellia oleifera	15
+Virola surinamensis	15
+Byrsonima crassifolia	15
+Solanum quitoense	15
+Cyathea	15
+Thelesperma	15
+Nuphar lutea	15
+Capsicum pubescens	15
+Brassica oleracea var. capitata	15
+Morella rubra	15
+Brassica	15
+Sida sp. dark green fruits	18
+Pan	15
+Zu	17
+Amelanchier alnifolia	16
+Prunus tomentosa	17
+Eois sp. black tears	16
+Melilotus officinalis subsp. suaveolens	1
+Trifolium pratense	1
+Melilotus albus	1
+Hydrangea febrifuga	1
+Ephedra sinica	1
+Ara	1
+Cornus officinalis	1
+Octopus vulgaris	3
+Mirabilis jalapa	1
+Nes	1
+Ami	3
+Meleagris gallopavo	2
+Engraulidae	2
+Sus scrofa domesticus	2
+Bos taurus	3
+unclassified sequences	2
+Gari	2
+Micromesistius poutassou	2
+Mea	2
+Abramis brama	2
+Clupeinae	2
+Acipenseridae	2
+Salvelinus	2
+Cola	2
+Ocoa	2
+Gadus	2
+Coffea	2
+Brachyura	2
+Astacidea	2
+Mycobacterium virus Firecracker	2
+Limanda limanda	2
+Squalus acanthias	2
+Anatidae	2
+Anguilliformes	2
+Prostanthera tallowa	2
+Pleuronectiformes	2
+Ranidae	2
+Belone belone	2
+Melanogrammus aeglefinus	2
+Gadiformes	2
+Hippoglossus hippoglossus	2
+Reinhardtius hippoglossoides	2
+Lepus timidus	2
+Uma	2
+Salvelinus namaycush	2
+Microstomus kitt	2
+Molva molva	2
+Nephropidae	2
+Cyclopteridae	2
+Scombridae	2
+Ala	2
+Iso	2
+Mytilidae	2
+Sebastes viviparus	2
+Nephrops norvegicus	2
+Trisopterus esmarkii	2
+Ostreidae	2
+Perciformes	2
+Esox lucius	2
+Sander lucioperca	2
+Pleuronectidae	2
+Pollachius	2
+Lagopus muta	2
+Leporidae	2
+Oncorhynchus mykiss	2
+Sebastes alutus	2
+Ula	2
+Ute	2
+Salmonidae	2
+Phocidae	2
+Nicoletella semolina	2
+Caridea	2
+Gastropoda	2
+Soleidae	2
+Siluriformes	2
+Thunnus	2
+Scophthalmus maximus	2
+Vinegar Hill virus	2
+Cetacea	2
+Halgerda meringuecitrea	2
+Coregonus	2
+Merlangius merlangus	2
+Anarhichas lupus	2
+Piper toppingii	2
+Ora	2
+Brevoortia tyrannus	2
+Cambarus cf. deweesae Dripping Spring	2
+Phasianidae	2
+Morchellaceae	2
+Mycobacterium phage Horchata	2
+Engraulis encrasicolus	2
+Percoidei	2
+Morone saxatilis	2
+Pomatomus saltatrix	2
+Cyprinus carpio	3
+Ictalurus punctatus	2
+Coregonus artedi	2
+Gadus morhua	2
+Gadus macrocephalus	2
+Micropogonias undulatus	2
+Brosme brosme	2
+Coryphaena hippurus	2
+Aplodinotus grunniens	2
+Anguilla	2
+Epinephelus	2
+Hippoglossus	2
+Clupea pallasii	2
+Ophiodon elongatus	2
+Scomber scombrus	2
+Trachurus symmetricus	2
+Scomberomorus cavalla	2
+Scomberomorus maculatus	2
+Chanos chanos	2
+Lophius piscatorius	2
+Mugil cephalus	2
+Serranus scriba	2
+Zoarces americanus	2
+Sander vitreus	2
+Pollachius pollachius	2
+Gadus chalcogrammus	2
+Trachinotus carolinus	2
+Sebastes	2
+Hoplostethus atlanticus	2
+Anoplopoma fimbria	2
+Salmo salar	2
+Oncorhynchus tshawytscha	2
+Oncorhynchus keta	2
+Oncorhynchus kisutch	2
+Oncorhynchus gorbuscha	2
+Oncorhynchus nerka	2
+Sardinops sagax	2
+Stenotomus chrysops	2
+Cynoscion	2
+Alosa sapidissima	2
+Squaliformes	2
+Archosargus probatocephalus	2
+Osmerus mordax	2
+Lutjanidae	2
+Leiostomus xanthurus	2
+Acipenser	2
+Catostomus commersonii	2
+Lepomis gibbosus	2
+Xiphias gladius	2
+Lopholatilus chamaeleonticeps	2
+Thunnus thynnus	2
+Katsuwonus pelamis	2
+Thunnus alalunga	2
+Thunnus albacares	2
+Seriola lalandi	2
+Paralithodes camtschaticus	2
+Callinectes sapidus	2
+Metacarcinus magister	2
+Chionoecetes opilio	2
+Homarus americanus	2
+Palinuridae	2
+Bivalvia	2
+Sepiidae	2
+Mytilus edulis	2
+Crassostrea virginica	2
+Crassostrea gigas	3
+Pectinidae	2
+Teuthida	2
+Buccinidae	2
+Cichlidae	2
+Mus	2
+Bos taurus x Bison bison	2
+Cervidae	2
+Capra hircus	2
+Plumbagella	2
+Sinolacme tortilla	2
+Ia	4
+Popcornella	2
+Tor	2
+Usta	2
+Mycobacterium phage FudgeTart	2
+Mola	2
+Changa	2
+Ada	2
+Monachosorum	2
+Mycobacterium phage Quesadilla	2
+Arthrobacter phage Lasagna	2
+Uta	2
+Ascidiacea	1
+Delphinapterus leucas	2
+Dallia pectoralis	1
+Katharina tunicata	1
+Clinocardium nuttallii	1
+Enteroctopus dofleini	2
+Erignathus barbatus	2
+Tunicata	1
+Apostichopus californicus	1
+Pusa hispida	1
+Odobenus rosmarus	1
+Balaena mysticetus	1
+Coregonus nasus	1
+Tama	2
+Phoca largha	2
+Stenodus leucichthys	2
+Osmeridae	2
+Eumetopias jubatus	2
+Pusa	2
+Columbidae	2
+Scyphozoa	2
+Chelonia mydas	2
+Coffea arabica	2
+Gallus gallus	2
+Ovis aries	2
+Coffea canephora	2
+Ootheca	1
+Amauroderma calcitum	1
+Arca	1
+Coridius	1
+Draco	1
+Agaricus campestris	1
+Stella	1
+Apis cerana	2
+Passiflora quadrangularis	1
+Mimosa pudica	1
+Carassius auratus	1
+Murraya paniculata	1
+Citrus medica	1
+Gossypium herbaceum	1
+Hypericum chinense	1
+Chelidonium majus	1
+Phytolacca acinosa	1
+Trifolium repens	1
+Scolopendra subspinipes	1
+Euonymus grandiflorus	1
+Anguilla japonica	1
+Brasenia schreberi	1
+Urtica dioica	1
+Claviceps purpurea	1
+Drosera	1
+Apis mellifera	1
+Indigofera tinctoria	1
+Cannabis sativa	1
+Isa	1
+Equus caballus	1
+Radix	1
+Cebus	1
+Rheum officinale	1
+Imperata cylindrica	1
+Zizania latifolia	1
+Albizia julibrissin	1
+Vespa	1
+Gekko	1
+Stemona tuberosa	1
+Echinacea purpurea	1
+Typha latifolia	1
+Urtica cannabina	1
+Phlomoides rotata	1
+Bombyx mori	1
+Ovis	1
+Proteocephalus kuyukuyu	1
+Curcuma aromatica	1
+Aulis	1
+Hypericum perforatum	1
+Hypericum faberi	1
+Hypericum sampsonii	1
+Hypericum calycinum	1
+Hypericum erectum	1
+Hypericum wightianum	1
+Tribulus terrestris	1
+Astragalus complanatus	1
+Bassia scoparia	1
