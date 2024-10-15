@@ -1,7 +1,7 @@
-# NaCTAR
-We developed a natural product-derived drug discovery pipeline using data-driven approaches, named NaCTAR. 
+# NaCTR
+We developed a Natural product-derived Compound-based drug discovery pipeline from Traditional oriental medicine by search space Reduction, named NaCTAR. 
 
-We used Parkinson's disease as a case study to demonstrate the effectiveness of NaCTAR.
+We used Parkinson's disease as a case study to demonstrate the effectiveness of NaCTR.
 
 ## Requirements
 Python version
@@ -28,5 +28,5 @@ Input files need to run the codes. These files should be in the `data` folder.
 
 * `safe_compounds_from_TEST.tsv` - Compounds passed the TEST (toxicity test tool)
 
-## Run analysis
+## Run Analysis
 Run `main.py`
